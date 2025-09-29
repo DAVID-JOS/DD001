@@ -1,0 +1,12 @@
+{
+  "wallets": [
+    {
+      "address": "SKD-001",
+      "balance": 0
+    },
+    {
+      "address": "SKD-002",
+      "balance": 0
+    }
+  ]
+}
